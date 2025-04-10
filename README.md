@@ -1,2 +1,9 @@
 # amazonScraper
-Amazon scraper used to find deals on certain products. Refreshes every 24 hours. Notify user via email once a deal/sale is available.
+A Python-based web scraper that extracts product listings from Amazon's search results using the ScrapeOps proxy API to bypass bot protection.
+Amazon scraper used to search an object and number of pages to generate a csv file containing: 
+- product
+- title
+- URL
+- rating
+- price
+- ASIN (Amazon product ID)
